@@ -22,4 +22,5 @@ To be published.
 ## References
 
 [1]  R. Fernandez-Beltran, D. Ibanez, J. Kang, and F. Pla, “Time-resolved Sentinel-3 vegetation indices via inter-sensor 3-d convolutional regression networks,” IEEE Geoscience and Remote Sensing Letters, 2021.
+
 [2] D. Ibañez, R. Fernandez-Beltran, F. Pla and N. Yokoya, "DAT-CNN: Dual Attention Temporal CNN for Time-Resolving Sentinel-3 Vegetation Indices," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 2632-2643, 2022, doi: 10.1109/JSTARS.2022.3161190.
