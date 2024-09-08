@@ -15,7 +15,9 @@ The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair
 ## Citation
 
 ```
-To be published.
+D. Ibañez, R. Fernandez-Beltran and F. Pla, "SEN23E: A Cloudless Geo-Referenced Multi-Spectral Sentinel-2/Sentinel-3 Dataset for Data Fusion Analysis," IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium, Kuala Lumpur, Malaysia, 2022, pp. 1448-1451, doi: 10.1109/IGARSS46834.2022.9883867.
+
+
 
 ```
 
