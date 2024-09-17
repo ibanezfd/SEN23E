@@ -10,7 +10,7 @@ This repository contains the dataset for the IGARSS2022 paper: This repository c
 
 ## Dataset
 
-The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair used in the experimentation can be found in: https://tinyurl.com/55maz5hb 
+The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair used in the experimentation can be found in: https://tinyurl.com/yfrpdeww
 
 ## Citation
 
